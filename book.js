@@ -9,7 +9,7 @@ class book{
 
 //ui class
 class UI{
-    //no need of contructor ... static functions
+    //no need of contructor .. static functions
 
     static addBookToList(book){
         // creating a new table row..
